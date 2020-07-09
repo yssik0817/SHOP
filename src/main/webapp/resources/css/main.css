@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+body{
+	font-size: 9pt; color: black;
+	line-height: 160%;
+	font-family: 	굴림, vernado, tahoma;
+	background-color: #F1F8E0;
+	margin-top:100;
+}
+
+table{
+	width:88%;
+	border:1px solid #ffff99;
+	margin-left: auto; margin-right: auto; 
+	border-collapse: collapse;
+	background-color: #FFFF99;
+}
+
+th, td{
+	padding : 10px;
+	text-align: center;
+	font-size: 9px;
+	color : black;
+	line-height: 160%;
+	font-family: 굴림, vernado, tahoma;
+	background-color: #A5DF00;
+}
+
+select{
+	font-size: 9pt; 
+	color: black;
+	line-height: 160%;
+	font-family: 굴림, vernado, tahoma;
+}
+
+DIV{
+	font-size: 9pt;
+	color: blakc;
+	line-height: 160%;
+	font-family: 굴림, vernado, tahoma;
+}
+
+FORM{
+	font-size: 9pt;
+	color: blakc;
+	line-height: 160%;
+	font-family: 굴림, vernado, tahoma;
+}
+TEXTAREA{
+	border-right: 1px solid #999999;
+	border-top: 1px solid #999999;
+	font-size: 9pt;
+	border-left: 1px solid #999999;
+	color: black;
+	border-bottom: 1px solid #999999;
+	font-family: 굴림, vernado, tahoma;
+	background-color: white;
+}
+
+INPUT{
+	border-right: 1px solid #999999;
+	border-top: 1px solid #999999;
+	font-size: 9pt;
+	border-left: 1px solid #999999;
+	color: black;
+	border-bottom: 1px solid #999999;
+	font-family: 굴림, vernado, tahoma;
+	height: 19px;
+	background-color: white;
+}
+
+.tableclass1{
+	text-align: center;
+	margin-left: auto; margin-right: auto;
+	background-color: #F1F8E0;
+	height: 80%;
+	width: 87%;
+	color: black;
+	font-family: 굴림, vernado, tahoma; 
+}
+
+.tableclass2{
+	text-align: left;
+	margin-left: auto; margin-right: auto;
+	border: 1px solid #FFFF00;
+	height: 80%;
+	width: 87%;
+	font-family: 굴림, vernado, tahoma; 
+}
+
+.tbodystyle{
+	text-align: left;
+	color: black;
+	font-family: 굴림, vernado, tahoma; 
+	background-color: #F1F8E0;
+}
+
+.theadstyle{
+	text-align: center;
+	background-color: #86B404;
+	color: #FFFFFF;
+}
+
+
+A:link {text-decoration: none; color: #696969}
+A:hover{text-decoration: tes; color: #66CCFF} 
+A:visited{text-decoration: none; color: #330066}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
